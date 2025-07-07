@@ -16,7 +16,7 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lavish-sehgal-7a5124304)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/Lavish-sehgal/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23000000.svg?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/Lavish-sehgal/)<br>
 [sehgallavish5@gmail.com](mailto:sehgallavish5@gmail.com)
 
 
